@@ -1,6 +1,7 @@
 # blockchain
 [
 	{
+		bit.ly/btdsbc
 		"constant": true,
 		"inputs": [],
 		"name": "candidateName",
@@ -9,7 +10,6 @@
 				"name": "",
 				"type": "string"
         
-        link - bit.ly/btdsbc;
 			}
 		],
 		"payable": false,
